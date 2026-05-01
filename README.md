@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiasEoGNsy1cShZHz1DrXuMECr7erCg-pyaw&s" alt="Dash screenshot"/>
+  <img src="https://static.filehorse.com/screenshots-mac//developer-tools/dash-mac-screenshot-01.png" alt="Dash screenshot"/>
 </p>
 
 ---
@@ -65,7 +65,7 @@ Enterprise deployments benefit from flexible configuration and centralized manag
 Sustained development ensures the application evolves with platform capabilities while maintaining backward compatibility. Feature additions prioritize user requests and workflow optimization, keeping the tool relevant as professional requirements advance and technology landscapes shift.
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU76kpNH1zn5tx3_mYB3UCIWBAP907C6IwvQ&s" alt="Dash screenshot 3"/>
+  <img src="https://docs.dash.org/de/0.13.0/_images/112414813.png" alt="Dash screenshot 3"/>
 </p>
 
 ---
